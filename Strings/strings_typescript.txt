@@ -1,0 +1,6 @@
+]0;tyler@tyler-VirtualBox: ~/Desktop/cse330/lab3[01;32mtyler@tyler-VirtualBox[00m:[01;34m~/Desktop/cse330/lab3[00m$ g++ -o string string.cpp string_te
+st.cpp
+]0;tyler@tyler-VirtualBox: ~/Desktop/cse330/lab3[01;32mtyler@tyler-VirtualBox[00m:[01;34m~/Desktop/cse330/lab3[00m$ ./string
+SUCCESS
+]0;tyler@tyler-VirtualBox: ~/Desktop/cse330/lab3[01;32mtyler@tyler-VirtualBox[00m:[01;34m~/Desktop/cse330/lab3[00m$ exit
+exit
